@@ -5,6 +5,8 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 Este proyecto consiste mostrar información básica de cualquier pais del mundo.
 Utiliza en api publico https://restcountries.com/
 
+Este este proyecto ya se encuentra desplegado en: https://paisesdelmundoelvistezen.netlify.app/
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
